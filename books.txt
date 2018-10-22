@@ -1,0 +1,2371 @@
+
+100
+dwwd		swsw	2	10
+100
+sqsdw		ceddfe	0	1962570714
+100
+dcec		dwd	2	10
+7060
+data		structure	0	1957721050
+7060
+data_structure_with_c		sangam	2	10
+113
+vcvgv		bh	2	10
+101
+weferger		fwf	12	10
+12345
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+0
+ojojo		ohohoh	521	2
+152254
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+0
+hgfdv		bgfd	2	10
+vgfg
+hfuwuhf		wefewf	545	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
+m
+r		ert	0	5
